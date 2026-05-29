@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Based Text Recognition System Using OCR
 
 ## Overview
@@ -58,3 +59,7 @@ Confidence: 0.98
 ## Author
 
 Student Project – AI-Based Text Recognition System
+=======
+# text-recognition
+The AI-Based Text Recognition System is a simple computer vision application that uses Optical Character Recognition (OCR) technology to detect and extract text from images. The system utilizes a pre-trained EasyOCR model to recognize printed text and convert it into machine-readable format.  
+>>>>>>> e21cb70477c404dc07e821e612d23344d55bc1fe
